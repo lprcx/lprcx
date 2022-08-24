@@ -2,6 +2,8 @@
 [![Header](https://github.com/lprcx/lprcx/blob/main/DesertedEarlyAnnelida-size_restricted.gif)](https://github.com/lprcx)
 <!--
 **lprcx/lprcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##--------------------------------------------------------------------------------------------------
+<img align='right' src='https://github.com/lprcx/lprcx/blob/main/7ddb302ea39f892b2dfb4d50c1d5b8e348352d06_00.gif.crdownload' width='150"'>
 
 Here are some ideas to get you started:
 
