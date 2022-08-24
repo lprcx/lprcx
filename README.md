@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/lprcx/DesertedEarlyAnnelida-size_restricted.gif)
+[![Header](https://github.com/lprcx/lprcx/blob/main/DesertedEarlyAnnelida-size_restricted.gif)](https://github.com/lprcx)
 <!--
 **lprcx/lprcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
